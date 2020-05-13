@@ -5,38 +5,33 @@ A Comparative Analysis of Different Machine Learning Models to Handwritten Lette
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Machine Learning Model</th>
+    <th>Training Accuracy</th>
+    <th>Test Accuracy</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Naive Bayes</td>
+    <td>54.22%</td>
+    <td>53.64%</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Decision Tree</td>
+    <td>75.65%</td>
+    <td>60.24%</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>Random Forest</td>
+    <td>100%</td>
+    <td>81.32%</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Simple Neural Network</td>
+    <td>82.20%</td>
+    <td>84.22%</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Convolutional Neural Network</td>
+    <td>86.71%</td>
+    <td>87.47%</td>
   </tr>
 </table>
