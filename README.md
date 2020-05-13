@@ -1,5 +1,5 @@
 # EMNIST
-A Comparative Analysis of Different Machine Learning Models to Handwritten Letters and Digits using a Balanced dataset (2400 samples per class in training, and 400 per class in test set)
+A Comparative Analysis of Different Machine Learning Models to Handwritten Letters and Digits using a Balanced dataset (2400 images per class in training, and 400 per class in test set)
 
 <h2>Final Accuracy Results on 47 Unique Classes of Letters & Digits</h2>
 
