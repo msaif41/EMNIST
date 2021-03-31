@@ -1,7 +1,7 @@
 # EMNIST (an extension of MNIST to letters)
 A Comparative Analysis of Different Machine Learning Models to Handwritten Letters and Digits using a Balanced dataset containing 2400 images per class in training, and 400 per class in test set
 
-![sketch](Visualization-of-EMNIST-balanced-dataset.png)
+![sketch](EMNIST_Balanced_Dataset_Visualization.png)
 
 <h2>Final Accuracy Results on 47 Unique Classes of Letters & Digits</h2>
 
